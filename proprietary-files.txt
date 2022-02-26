@@ -122,8 +122,8 @@ vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so
 vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so
 
 # Bluetooth (aptX)
-lib64/libaptXHD_encoder.so
-lib64/libaptX_encoder.so
+system/lib64/libaptXHD_encoder.so
+system/lib64/libaptX_encoder.so
 
 # Bluetooth firmware - from Samsung a52
 vendor/firmware/msbtfw11.mbn|0f335b6aac6fc172189bc54bfc634eec9f3cc83d
