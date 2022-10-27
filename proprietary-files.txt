@@ -1070,7 +1070,7 @@ vendor/lib64/vendor.qti.memory.pasrmanager@1.1.so
 # MotCamera4 - from tundra - 12/S3SJ32M.1-86-1/f9b032
 product/app/MotCamera3AI/MotCamera3AI.apk;PRESIGNED|fe1378bdc1e506696d0ca59a023b0a2217dd28cd
 product/etc/init/init.motcamera3.lens.rc|293260214b3b60496fb61709276295f17036f506
-product/priv-app/MotCamera4/MotCamera4.apk;OVERRIDES=Camera2|37e94175e7303a6929dde193e96888cf5f7bab3a
+product/priv-app/MotCamera4/MotCamera4.apk;OVERRIDES=Aperture|37e94175e7303a6929dde193e96888cf5f7bab3a
 system_ext/framework/com.motorola.androidx.camera.extensions.jar|c800d27322300859fb132cedcea410e7cc19b5f9
 system_ext/etc/public.libraries-motocamera.txt|29ff03d20e668b106bdaafd77bff9902eb210c39
 system_ext/lib/libavenhancements.so|6735b7c1aac3c125859e1827a25b88dff138d726
