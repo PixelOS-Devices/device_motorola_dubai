@@ -24,6 +24,8 @@ $(call inherit-product, device/motorola/dubai/device.mk)
 # Inherit some common PixelOS stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
+TARGET_CALL_RECORDING_SUPPORTED := false
+
 PRODUCT_NAME := aosp_dubai
 PRODUCT_DEVICE := dubai
 PRODUCT_MANUFACTURER := motorola
